@@ -2,16 +2,8 @@
 
 STEPS IN PROJECT
 
-Requirement Gathering/ Business Requirements
-Data Walkthrough
-Data Connection
-Data Cleaning / Quality Check
-Data Modeling
-Data Processing
-DAX Calculations
-Dashboard Lay outing
-Charts Development and Formatting
-Dashboard / Report Development
-Insights Generation
+
+<img width="968" height="756" alt="image" src="https://github.com/user-attachments/assets/e8fa0394-54cf-4862-9897-48b5b617f32b" />
+
 
 
